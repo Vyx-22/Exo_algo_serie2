@@ -12,3 +12,6 @@ temp
 /bin/
 /Debug/
 /Release/
+ 
+
+ .gitignore
