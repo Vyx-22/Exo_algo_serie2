@@ -105,7 +105,7 @@ Exemple avec GCC pour chaque fichier :
 ```bash
 gcc test_aire_rectangle.c -o test_aire_rectangle
 ./test_aire_rectangle
-
+```
 ---
 
 ## 🎯 Objectifs du projet
